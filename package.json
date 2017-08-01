@@ -1,12 +1,12 @@
 {
-  "name": "ele",
+  "name": "electron-pack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "lsc -c index.ls && electron ."
   },
-  "author": "",
+  "author": "andy23512",
   "license": "ISC",
   "dependencies": {
     "electron": "^1.4.13",

@@ -5,3 +5,7 @@ start pack for electron app
 ```
 yarn (or npm i)
 ```
+## Run
+```
+yarn start
+```
