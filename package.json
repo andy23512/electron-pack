@@ -9,7 +9,7 @@
   "author": "andy23512",
   "license": "ISC",
   "dependencies": {
-    "electron": "^7.2.4",
+    "electron": "^13.6.6",
     "livescript": "^1.6.0"
   }
 }
